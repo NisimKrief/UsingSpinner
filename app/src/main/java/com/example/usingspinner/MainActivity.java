@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             ,{"Kirito", "Luffy", "Naruto", "Goku", "Saitama", "Tai", "Ash", "Ichigo", "Zoro", "Sanji"}};
 
     String[][] Surname = {{"Krief", "Bunkin", "Levi", "Fathi", "Iluz", "Odlo", "Gabay", "Zhurvaliov", "Menahem", "Shteyman"},
-            {"Pixelim", "Bashiri", "Riboa", "Godel", "Magil", "Aplikatzia", "Sheyesh", "Arov", "Tkoim", "Tikfotz"},
+            {"Pixelim", "Bashiri", "Riboa", "Godel", "MagilMeod", "Aplikatzia", "Sheyesh", "Arov", "Tkoim", "Tikfotz"},
             {"LoLirotbo","Natsnatsim","EifoZeNimtza","Aene","Shemetz","Zimon","Mitgaisim","Rashombadaf","Beereh","Beotoyom"},
             {"ShavoaLefney", "Ahri", "Yodbet", "Dilagti", "Simanti", "Stoma", "Maze", "Marina", "Adhamesh", "Nostalgia"}};
 
